@@ -8,7 +8,7 @@ endpoints (todos com o método GET):
 
 		localhost/src/controller/passageiro.php?name=<nome do passageiro>&email=<email do passageiro>&cardId=<id do cartao do passageiro>&password=<senha do passageiro>
 
-	obs.: Será gerado um token para o usuário .
+		obs.: Será gerado um token para o usuário .
 
 
 	> cadastro de nova linha
